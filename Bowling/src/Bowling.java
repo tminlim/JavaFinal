@@ -152,8 +152,8 @@ public class Bowling {
 			frames.add(new Frame());
 		}
 
-		throwPin(9);
-		throwPin(1);// Spare
+		throwPin(8);
+		throwPin(2);// Spare
 
 		throwPin(8);
 		throwPin(0);
